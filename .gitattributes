@@ -1,0 +1,4 @@
+/.gitattributes export-ignore
+/CONTEXT.md export-ignore
+/README.md export-ignore
+/tests export-ignore
