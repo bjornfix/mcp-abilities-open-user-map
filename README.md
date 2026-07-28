@@ -73,6 +73,7 @@ Open User Map locations can carry more than a pin: descriptions, zoom, geometry,
 
 ## Documentation
 
+- [Plugin page](https://devenia.com/plugins/mcp-abilities-open-user-map/)
 - [Devenia WordPress MCP plugins](https://devenia.com/plugins/mcp-expose-abilities/#add-ons)
 - [Open User Map](https://wordpress.org/plugins/open-user-map/)
 - [GitHub Releases](https://github.com/bjornfix/mcp-abilities-open-user-map/releases)
